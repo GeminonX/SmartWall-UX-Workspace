@@ -1,5 +1,31 @@
 # SmartWall-UX-Workspace
 
+---
+
+## 🎥 Demo Preview
+
+<table>
+<tr>
+<td width="60%">
+
+![SmartWall Demo](demo/screenshots/smartWallDemo.gif)
+
+</td>
+<td width="40%" style="vertical-align: top;">
+
+### Key Features
+- Draggable and resizable workspace panels
+- Multi-display collaboration simulation
+- Accessibility-first user flow
+- Iterative UX improvement ~40% faster task flow
+- HTML / CSS / JavaScript implementation
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Overview
 SmartWall is a next-generation interactive workspace platform designed to enhance productivity and collaboration by offering large-display multipanels with draggable, resizable application windows. Developed as a team project at Texas Woman’s University for a user-centric UX design study, the system explores how smart walls can support dynamic workflows.
 
