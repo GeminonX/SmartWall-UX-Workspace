@@ -8,7 +8,7 @@
 <tr>
 <td width="60%">
 
-![SmartWall Demo](demo/screenshots/smartWallDemo.gif)
+![SmartWall Demo](demo/smartWallDemo.gif)
 
 </td>
 <td width="40%" style="vertical-align: top;">
